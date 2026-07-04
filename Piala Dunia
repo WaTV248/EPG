@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv date="" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
 <channel id="TVRI Nasional (Pildun).id">
-<display-name>TVRI Nasional (Pildun)</display-name>
-<display-name>TVRI Nasional (Pildun) HD</display-name>
+<display-name>TVRI Nasional</display-name>
+<display-name>TVRI Nasional HD</display-name>
 </channel>
 <channel id="TVRI Sport (Pildun).id">
-<display-name>TVRI Sport (Pildun)</display-name>
-<display-name>TVRI Sport (Pildun) HD</display-name>
+<display-name>TVRI Sport</display-name>
+<display-name>TVRI Sport HD</display-name>
 </channel>
 <programme start="20260704120000 +0700" stop="20260704230000 +0700" channel="TVRI Nasional (Pildun).id">
 <title lang="id">TVRI Nasional</title>
