@@ -52,7 +52,7 @@
 <title lang="id">Bola Gembira : Brasil vs Norwegia (Pre-Match)</title>
 <desc lang="id">Jelang laga yang mempertemukan Timnas Brasil dan Timnas Norwegia memperebutkan tiket menuju perempat final Piala Dunia FIFA 2026</desc>
 <category lang="id">Olahraga</category>
-<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto Program Acara/Bola Gembira Prematch.jpg" width="1920" height="1080"/>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto Program Acara/Bola Gembira Prematch.jpg"/>
 </programme>
 <programme start="20260706030000 +0700" stop="20260706050000 +0700" channel="TVRI Nasional (Pildun).id">
 <title lang="id">Piala Dunia FIFA 2026 : Brasil vs Norwegia</title>
@@ -63,7 +63,7 @@
 <title lang="id">Bola Gembira : Brasil vs Norwegia (Post-Match)</title>
 <desc lang="id">Pasca laga yang mempertemukan Timnas Brasil dan Timnas Norwegia memperebutkan tiket menuju perempat final Piala Dunia FIFA 2026</desc>
 <category lang="id">Olahraga</category>
-<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto Program Acara/Bola Gembira Post Match.jpg" width="1920" height="1080"/>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto Program Acara/Bola Gembira Post Match.jpg"/>
 </programme>
 <programme start="20260706060000 +0700" stop="20260706070000 +0700" channel="TVRI Nasional (Pildun).id">
 <title lang="id">Bola Gembira : Meksiko vs Inggris (Pre-Match)</title>
