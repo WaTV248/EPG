@@ -3,7 +3,7 @@
 <channel id="Trial.id">
 <display-name>Trial HD</display-name>
 </channel>
-<programme start="20260707000000 +0700" stop="20260707010000 +0700" channel="Trial.id">
+<programme start="20260707000000 +0800" stop="20260707010000 +0800" channel="Trial.id">
 <title lang="id">Bola Gembira (Post-Match)</title>
 <desc lang="id">Tayangan Pasca Laga Piala Dunia FIFA 2026</desc>
 <category lang="id">Olahraga</category>
