@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv date="" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
+<channel id="Trial.id">
+<display-name>Trial HD</display-name>
+</channel>
+<programme start="20260707000000 +0700" stop="20260707010000 +0700" channel="Trial.id">
+<title lang="id">Bola Gembira (Post-Match)</title>
+<desc lang="id">Tayangan Pasca Laga Piala Dunia FIFA 2026</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Bola%20Gembira%20Post%20Match.jpg"/>
+</programme>
+</tv>
