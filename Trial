@@ -1,12 +1,98 @@
 <?xml version="1.0" encoding="utf-8"?>
 <tv date="" source-info-url="" source-info-name="" generator-info-name="" generator-info-url="">
-<channel id="Trial.id">
-<display-name>Trial HD</display-name>
+<channel id="TVRI Nasional (Pildun).id">
+<display-name>TVRI Nasional</display-name>
+<display-name>TVRI Nasional HD</display-name>
+<channel id="TVRI Sport (Pildun).id">
+<display-name>TVRI Sport</display-name>
+<display-name>TVRI Sport HD</display-name>
 </channel>
-<programme start="20260707000000 +0800" stop="20260707010000 +0800" channel="Trial.id">
-<title lang="id">Bola Gembira (Post-Match)</title>
-<desc lang="id">Tayangan Pasca Laga Piala Dunia FIFA 2026</desc>
+
+<programme start="202607100400 +0800" stop="202607100600 +0800" channel="TVRI Nasional (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Prancis VS Maroko</title>
+<desc lang="id">Akankah Maroko mampu membalas kekalahan 4 tahun lalu di Qatar?. Atau justru Prancis kembali meraih kemenangan dan melaju ke Putaran Semifinal Piala Dunia FIFA 2026?.
+Saksikan Laga Babak Perempat Final yang mempertemukan Prancis dan Maroko di TVRI Nasional dan TVRI Sport</desc>
 <category lang="id">Olahraga</category>
-<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Bola%20Gembira%20Post%20Match.jpg"/>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Prancis%20vs%20Maroko.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607110500 +0800" stop="202607110500 +0800" channel="TVRI Nasional (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Spanyol VS Belgia</title>
+<desc lang="id">40 tahun sejak pertemuan keduanya di Piala Dunia, Spanyol Kembali dipertemukan denhan Belgia, lalu siapakah yang akan melaju ke Putaran Semifinal Piala Dunia FIFA 2026?.
+Saksikan Laga Babak Perempat Final yang mempertemukan Spanyol dan Belgia di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Spanyol%20vs%20Belgia.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607120500 +0800" stop="202607120700 +0800" channel="TVRI Nasional (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Norwegia VS Inggris</title>
+<desc lang="id">Norwegia dengan Erling Haaland dan kawan-kawan siap menghadapi salah satu Timnas favorit Juara yakni Inggris dengan Harry Kane dan tim dalam laga Perempat Final kali ini, siapakah yang akan melaju ke Putaran Semifinal Piala Dunia FIFA 2026?.
+Saksikan Laga Babak Perempat Final yang mempertemukan Norwegia dan Inggris di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Norwegia%20vs%20Inggris.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607120900 +0800" stop="202607121100 +0800" channel="TVRI Nasional (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Argentina VS Swiss</title>
+<desc lang="id">Mampukah Messi tetap menjaga asa Argentina untuk terus melaju ke Putaran Semifinal Piala Dunia FIFA 2026?. Atau justru Swiss mampu bersaing dalam perebutan tiket ke putaran selanjutnya?
+Saksikan Laga Babak Perempat Final yang mempertemukan Argentina dan Swiss di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Norwegia%20vs%20Inggris.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607100400 +0800" stop="202607100600 +0800" channel="TVRI Sport (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Prancis VS Maroko</title>
+<desc lang="id">Akankah Maroko mampu membalas kekalahan 4 tahun lalu di Qatar?. Atau justru Prancis kembali meraih kemenangan dan melaju ke Putaran Semifinal Piala Dunia FIFA 2026?.
+Saksikan Laga Babak Perempat Final yang mempertemukan Prancis dan Maroko di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Prancis%20vs%20Maroko.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607110300 +0800" stop="202607110500 +0800" channel="TVRI Sport (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Spanyol VS Belgia</title>
+<desc lang="id">40 tahun sejak pertemuan keduanya di Piala Dunia, Spanyol Kembali dipertemukan denhan Belgia, lalu siapakah yang akan melaju ke Putaran Semifinal Piala Dunia FIFA 2026?.
+Saksikan Laga Babak Perempat Final yang mempertemukan Spanyol dan Belgia di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Spanyol%20vs%20Belgia.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607120500 +0800" stop="202607120700 +0800" channel="TVRI Sport (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Norwegia VS Inggris</title>
+<desc lang="id">Norwegia dengan Erling Haaland dan kawan-kawan siap menghadapi salah satu Timnas favorit Juara yakni Inggris dengan Harry Kane dan tim dalam laga Perempat Final kali ini, siapakah yang akan melaju ke Putaran Semifinal Piala Dunia FIFA 2026?.
+Saksikan Laga Babak Perempat Final yang mempertemukan Norwegia dan Inggris di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Norwegia%20vs%20Inggris.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
+</programme>
+
+<programme start="202607120900 +0800" stop="202607121100 +0800" channel="TVRI Sport (Pildun).id">
+<title lang="id">Perempat Final Piala Dunia FIFA 2026 : Argentina VS Swiss</title>
+<desc lang="id">Mampukah Messi tetap menjaga asa Argentina untuk terus melaju ke Putaran Semifinal Piala Dunia FIFA 2026?. Atau justru Swiss mampu bersaing dalam perebutan tiket ke putaran selanjutnya?
+Saksikan Laga Babak Perempat Final yang mempertemukan Argentina dan Swiss di TVRI Nasional dan TVRI Sport</desc>
+<category lang="id">Olahraga</category>
+<icon src="https://raw.githubusercontent.com/WaTV248/EPG/refs/heads/main/Foto%20Program%20Acara/Norwegia%20vs%20Inggris.jpg"/>
+<rating system="IDN">
+<value>13</value>
+</rating>
 </programme>
 </tv>
